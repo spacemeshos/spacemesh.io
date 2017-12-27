@@ -1,0 +1,1131 @@
+{
+  "settings": {
+    "name": "Spacemesh",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ff9500",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#007aff",
+        "infoColor": "#4cd964",
+        "warningColor": "#f3c649",
+        "dangerColor": "#ffffff",
+        "titleFont": "Titillium Web",
+        "subtitleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#2e2e2e"
+      ]
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 183,
+    "versionPublish": "4.5.2",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111612428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111612428-1');\r\n</script>\r\n",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Spacenesh",
+        "meta_descr": "SpaceMesh blockchain OS open source project",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff9500!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Browse</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header4-2z\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-4q\">Consensus Protocol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures9-51\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">Join Us<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-3b\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/asset-44x-126x128.png",
+              "height": 128,
+              "alt": "Spacemesh",
+              "link": "index.html",
+              "title": "SpaceMesh"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Spacemesh</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4r"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<span style=\"font-weight: normal;\">Introducting Spacemesh</span>",
+          "text": "Blockchain OS<br><br>Spacemesh is a blockchain operating system designed to run general-purpose smart contracts at web-scale. &nbsp;It is powered by a novel consensus protocol that is secure, proof of work free and highly incentive-compatible.<br><br>Spacemesh is designed to create a highly-decentralized p2p blockchain computer formed by individuals from around the globe running Spacemesh on their desktop PCs at home.<br><br>Spacemesh is as a free open source software that aims to become a core Internet protocol for blockchain computation.<br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://github.com/spacemeshos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-github mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://gitter.im/spacemesh-os\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;GITTER</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2z",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000",
+              "font-size": "60px"
+            }
+          },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Spacemesh Highlights</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4n"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "horse",
+              "family": "iconsMind",
+              "active": true,
+              "size": "100"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "green-house",
+              "family": "iconsMind",
+              "active": true,
+              "size": "100"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "size": "100"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "code",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "100"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "100"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "100"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "<span style=\"font-weight: normal;\">Race Free</span>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Fairly awarda all participating honest nodes eliminating selfish mining and mining pools concerns and enabling a high degree of incentive compatibility.",
+          "title2": "<span style=\"font-weight: normal;\">Green</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Proof of work free after a one-time initial setup phase where nodes commit space from their PC hard drives avoiding massive energy waste associated with legacy mining protocols.<br>",
+          "title3": "<span style=\"font-weight: normal;\">Decentralized</span>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Designed to create a highly decentralized  network formed by thousands of home desktop PCs. It is free of centralization concerns associated with proof-of-sake based protocols. Anyone can join the network, contribute CPU, storage and networking to it and earn token awards.<br>",
+          "title4": "<span style=\"font-weight: normal;\">Scalable</span>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Unique deep integration of a novel consensus protocol with highly-capable payment channels create a scalable transaction processing and smart contracts execution solution that is an order of magnitude better than pow powered networks.<br>",
+          "title5": "<span style=\"font-weight: normal;\">Secure</span><br>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Security is our top priority. All of our algorithms and protocols will have strong security, crypto economics and liveliness proofs. Our proofs will be fully published and peer reviewed and we will fund a bounty program to further enhance the project's security.<br>",
+          "title6": "<span style=\"font-weight: normal;\">Open and Free</span>",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Spacemesh is a free open source software licensed under the MIT license. Our goals is &nbsp;to create a vibrant and inclusive developers community for the project and make Spacemesh a core Internet protocol for blockchain consensus and computation. <a href=\"join.html\">Join us</a>.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-33"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/blue-grid-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<span style=\"font-weight: normal;\">Spacemesh Consensus Protocol</span>",
+          "text": "<br>We are building a new blockchain consensus protocol that replaces energy-wasteful proof of work (pow) mechanisms with proof of space time (post) and the blockchain data structure with a mesh (a layered directed acyclic graph) to provide scalable, secure, theoretically-sound and race-free decentralized computation and transaction processing capabilities. The protocol does not require POW apart from a short initial setup phase.<br><br>Our protocols algorithmic and security work is lead by our chief scientists Prof. Tal Moran and Dr. Iddo Bentov, two of the world's leading consensus and blockchain researches and is based on their cutting-edge research in the field.<br><br>Under optimal conditions, the protocol involves nodes performing a one-time setup phase that involves commitment of hard-disk space after which they don't need to perform POW on an ongoing basis to participate in the network and earn block validation awards.<br><br>Our full technical white paper is in the works and will be published here soon. Some of the core ideas in our protocol include the following recently published research by our team: <br><br><a href=\"https://eprint.iacr.org/2016/035.pdf\" target=\"_blank\">\"Rational Proofs of Space Time\"</a><br><br><a href=\"https://eprint.iacr.org/2017/300\" target=\"_blank\">\"Tortoise and Hares Consensus: the Meshcash Framework for Incentive-Compatible, Scalable Cryptocurrencies\"</a><br><br><a href=\"https://arxiv.org/pdf/1406.5694.pdf\" target=\"_blank\">\"Cryptocurrencies without Proof of Work\"</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TORTOISE &amp; HARE CONSENSUS</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4q",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "color": "#2e2e2e",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": "52",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/blue-grid-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=t4Emf8UmlBw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Tortoise and Hares Consensus Protocol</span>",
+          "text": "Watch Spacemesh Chief Scientist Prof. Tal Moran gives an overview of the tortoise and hare consensus protocol at CESC2017 in Berkeley, CA.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-4p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tomer-profile-square-300x300.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.linkedin.com/in/tomerafek/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rami-k-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.linkedin.com/in/ramikasterstein/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tal-moran-profile-132x132.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://talmoran.net/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iddobentov-363x363.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.cs.cornell.edu/~iddo/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aviv-profile-image-square-418x418.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.linkedin.com/in/avive/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "/addons/mobirise3-blocks/components/_images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Founding Team</span>",
+          "subtitle": "We are a group of software developers, entrepreneurs, investors and cryptographers with a shared passion for building a secure and decentralized blockchain platform",
+          "title1": "<span style=\"font-weight: normal;\">Tomer Afek</span>",
+          "subtitle1": "co-founder",
+          "caption1": "Until recently was the Co-Founder/CEO of ConvertMedia, a big data startup, acquired by Taboola for $60m. Prior to that worked for 7 years as Investor at Evergreen VC, among Israel’s oldest and largest VCs, where he was in charge of Internet &amp; New-Media investments. Was in the founding team of Sanctum Inc. a leader in web application security. Holds&nbsp; a B.Sc. in Economics and Computer Science (Cum Laude) from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/tomerafek/\" target=\"_blank\">Profile</a>.",
+          "title2": "<span style=\"font-weight: normal;\">Rami Kasterstein</span>",
+          "subtitle2": "co-founder",
+          "caption2": "&nbsp;Serves as Managing Partner at Scale-Up Venture Capital. He been involved as founder, private investor and executive in several startups. Has over 25 years of global Hi-Tech experience with several successful startup companies both as investor and as an executive. Holds a M.Sc. in Computer Science (Cum Laude) from the Weizmann Institute, and a B.Sc. in Mathematics and Computer Science (Cum Laude) from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/ramikasterstein/\" target=\"_blank\">Profile.</a>",
+          "title3": "<span style=\"font-weight: normal;\">Prof. Tal Moran</span>",
+          "subtitle3": "chief scientist",
+          "caption3": "A faculty member in the School of Computer Science at the Interdisciplinary Center Herzliya, which he joined in 2011. <br>Previously he was a postdoctoral research fellow at the Center for Research on Computation and Society at Harvard University, <br>Holds a PhD. from the Weizmann Institute of Science, advised by Moni Naor. Tal's  research focuses on employing ideas and techniques from theoretical cryptography to design secure systems in the “real world”. He's also interested the foundations of cryptography and the theory of cryptography in general.&nbsp;<a href=\"https://talmoran.net/\" target=\"_blank\">Publications</a>.",
+          "title4": "<span style=\"font-weight: normal;\">&nbsp;Dr. Iddo Bentov</span>",
+          "subtitle4": "chief scientist",
+          "caption4": "A Postdoctoral researcher at Cornell University, and an author of several of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011. Also works on succinct zero-knowledge proofs at SCIPR Lab. Holds a Phd in Computer Science from the Technion, Israel Institute of Technology. <a href=\"https://www.cs.cornell.edu/~iddo/\" target=\"_blank\">Publications</a>.&nbsp;",
+          "title5": "<span style=\"font-weight: normal;\">Aviv Eyal</span>",
+          "subtitle5": "co-founder",
+          "caption5": "A successful serial entrepreneur and a hands-on CTO. Passionate about building innovative online software platforms and p2p networks that empowers the individual.<br>Co-founded Grouper Networks, a san-fran based online video sharing platform (acquired by Sony and rebraded Crackle.com) and served as VP, Technology, Sony.&nbsp;Holds  a B.Sc. in Philosophy and Computer Science from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/avive/\" target=\"_blank\">Profile</a>.",
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-51",
+          "_customCSS": ".card-img-top {\n    height: 150px;\n    width: 150px;\n    border-radius: 75px;\n}"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1m",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">Subscribe for Updates</span>",
+          "subtitle": "The Spacemesh Newsletter",
+          "form": {
+            "action": "info@spacemesh.io",
+            "alerts": {
+              "success": "Thanks for subscribing to our newsletter!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "text1": "<strong>Contact<br></strong><br><a href=\"mailto:info@spacemesh.io\">info@spacemesh.io</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://github.com/spacemeshos\" target=\"_blank\">Github</a></li><li><a class=\"text-white\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@spacemesh.io",
+            "alerts": {
+              "success": "Thanks for contacting us. We'll be in touch."
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-3b",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 spacemesh.io<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3d"
+        }
+      ]
+    },
+    "join.html": {
+      "settings": {
+        "meta_descr": "Join the Spacemesh open source project",
+        "title": "Join Spacenesh",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">Join Spacemesh</span>",
+          "text": "<p>Spacemesh is free open source software using the MIT license.<br>It is built by a diverse team of software developers, researchers and designers.</p><p>The project is lead by our core development team. It is made from developers who made a full-time commitment to the project. </p><p>We welcome contributions large and small. &nbsp;Anyone can contribute to Dromo via Githb. We also welcome anyone who is willing and able to make serious time commitment to the project to join our core development team.</p><p><span style=\"font-size: 1.07rem;\">To get started head over to our Github project - read the docs, browse the code and skim the open issues.&nbsp;</span><span style=\"font-size: 1.07rem;\">Feel free to introduce yourself, ask questions and get involved via our gitter channel where our dev team is active daily.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://github.com/spacemeshos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://gitter.im/spacemesh-os\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GITTER</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4y"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff9500!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Browse</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header4-2z\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-4q\">Consensus Protocol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures9-51\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">Join Us<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-3b\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/asset-44x-126x128.png",
+              "height": 128,
+              "alt": "Spacemesh",
+              "link": "index.html",
+              "title": "SpaceMesh",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Spacemesh</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "text1": "<strong>Contact<br></strong><br><a href=\"mailto:info@spacemesh.io\">info@spacemesh.io</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://github.com/spacemeshos\" target=\"_blank\">Github</a></li><li><a class=\"text-white\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aviveyal07@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-4w"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 spacemesh.io<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4x"
+        }
+      ]
+    }
+  }
+}
