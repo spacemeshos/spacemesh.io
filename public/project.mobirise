@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Spacemesh",
-    "currentPage": "join.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -60,7 +60,9 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -107,10 +109,14 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "1",
-            "fontName": {},
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
@@ -289,7 +295,7 @@
           ],
           "title1": "<span style=\"font-weight: normal;\">Race Free</span>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Fairly awarda all participating honest nodes eliminating selfish mining and mining pools concerns and enabling a high degree of incentive compatibility.",
+          "caption1": "Fairly awards all participating honest nodes eliminating selfish mining and mining pools concerns and enabling a high degree of incentive compatibility.",
           "title2": "<span style=\"font-weight: normal;\">Green</span>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Proof of work free after a one-time initial setup phase where nodes commit space from their PC hard drives avoiding massive energy waste associated with legacy mining protocols.<br>",
@@ -511,7 +517,7 @@
           "subtitle": "We are a group of software developers, entrepreneurs, investors and cryptographers with a shared passion for building a secure and decentralized blockchain platform",
           "title1": "<span style=\"font-weight: normal;\">Tomer Afek</span>",
           "subtitle1": "co-founder",
-          "caption1": "Until recently was the Co-Founder/CEO of ConvertMedia, a big data startup, acquired by Taboola for $60m. Prior to that worked for 7 years as Investor at Evergreen VC, among Israel’s oldest and largest VCs, where he was in charge of Internet &amp; New-Media investments. Was in the founding team of Sanctum Inc. a leader in web application security. Holds&nbsp; a B.Sc. in Economics and Computer Science (Cum Laude) from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/tomerafek/\" target=\"_blank\">Profile</a>.",
+          "caption1": "Over 3 decades on both sides of the startup table. Helped founding Showbox.com, prior was the Co-Founder/CEO of ConvertMedia, a big data startup (acquired by Taboola). Prior spent 7 years as Investor at Evergreen VC, among Israel’s oldest and largest VCs, in charge of Internet &amp; New-Media investments. Was also in the founding team of Sanctum Inc. a leader in web application security. Holds  a B.Sc. in Economics and Computer Science (Cum Laude) from Tel-Aviv University. Profile.<br>Holds&nbsp; a B.Sc. in Economics and Computer Science (Cum Laude) from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/tomerafek/\" target=\"_blank\">Profile</a>.",
           "title2": "<span style=\"font-weight: normal;\">Rami Kasterstein</span>",
           "subtitle2": "co-founder",
           "caption2": "&nbsp;Serves as Managing Partner at Scale-Up Venture Capital. He been involved as founder, private investor and executive in several startups. Has over 25 years of global Hi-Tech experience with several successful startup companies both as investor and as an executive. Holds a M.Sc. in Computer Science (Cum Laude) from the Weizmann Institute, and a B.Sc. in Mathematics and Computer Science (Cum Laude) from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/ramikasterstein/\" target=\"_blank\">Profile.</a>",
@@ -944,7 +950,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1017,10 +1023,14 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "1",
-            "fontName": {},
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
