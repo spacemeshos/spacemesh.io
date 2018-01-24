@@ -28,7 +28,7 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 183,
+    "uniqCompNum": 185,
     "versionPublish": "4.5.3",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111612428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111612428-1');\r\n</script>\r\n",
     "path": "@PROJECT_PATH@",
@@ -38,8 +38,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Spacenesh",
-        "meta_descr": "SpaceMesh blockchain OS open source project",
+        "title": "Spacemesh",
+        "meta_descr": "Spacemesh blockchain OS open source project",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -109,7 +109,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "1",
             "fontName": {
@@ -164,9 +164,9 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "<span style=\"font-weight: normal;\">Introducting Spacemesh</span>",
+          "title": "&nbsp;<span style=\"font-weight: normal;\">Introducting Spacemesh</span>",
           "text": "Blockchain OS<br><br>Spacemesh is a blockchain operating system designed to run general-purpose smart contracts at web-scale. &nbsp;It is powered by a novel consensus protocol that is secure, proof of work free and highly incentive-compatible.<br><br>Spacemesh is designed to create a highly-decentralized p2p blockchain computer formed by individuals from around the globe running Spacemesh on their desktop PCs at home.<br><br>Spacemesh is as a free open source software that aims to become a core Internet protocol for blockchain computation.<br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://github.com/spacemeshos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-github mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://gitter.im/spacemesh-os\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;GITTER</a> ",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://github.com/spacemeshos/go-spacemesh\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-github mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://gitter.im/spacemesh-os\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;GITTER</a> ",
           "_tags": [
             "Theme"
           ],
@@ -174,14 +174,15 @@
           "_anchor": "header4-2z",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "8px"
             },
             ".mbr-section-lead": {
               "color": "#000000"
             },
             ".mbr-section-title SPAN": {
               "color": "#000000",
-              "font-size": "60px"
+              "font-size": "48px"
             }
           },
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
@@ -301,7 +302,7 @@
           "caption2": "Proof of work free after a one-time initial setup phase where nodes commit space from their PC hard drives avoiding massive energy waste associated with legacy mining protocols.<br>",
           "title3": "<span style=\"font-weight: normal;\">Decentralized</span>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Designed to create a highly decentralized  network formed by thousands of home desktop PCs. It is free of centralization concerns associated with proof-of-sake based protocols. Anyone can join the network, contribute CPU, storage and networking to it and earn token awards.<br>",
+          "caption3": "Designed to create a highly decentralized  network formed by thousands of home desktop PCs. It is free of centralization concerns associated with proof-of-sake based protocols. Anyone can join the network, contribute CPU, storage and networking and earn token awards.<br>",
           "title4": "<span style=\"font-weight: normal;\">Scalable</span>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Unique deep integration of a novel consensus protocol with highly-capable payment channels create a scalable transaction processing and smart contracts execution solution that is an order of magnitude better than pow powered networks.<br>",
@@ -341,7 +342,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">Spacemesh Consensus Protocol</span>",
-          "text": "<br>We are building a new blockchain consensus protocol that replaces energy-wasteful proof of work (pow) mechanisms with proof of space time (post) and the blockchain data structure with a mesh (a layered directed acyclic graph) to provide scalable, secure, theoretically-sound and race-free decentralized computation and transaction processing capabilities. The protocol does not require POW apart from a short initial setup phase.<br><br>Our protocols algorithmic and security work is lead by our chief scientists Prof. Tal Moran and Dr. Iddo Bentov, two of the world's leading consensus and blockchain researches and is based on their cutting-edge research in the field.<br><br>Under optimal conditions, the protocol involves nodes performing a one-time setup phase that involves commitment of hard-disk space after which they don't need to perform POW on an ongoing basis to participate in the network and earn block validation awards.<br><br>Our full technical white paper is in the works and will be published here soon. Some of the core ideas in our protocol include the following recently published research by our team: <br><br><a href=\"https://eprint.iacr.org/2016/035.pdf\" target=\"_blank\">\"Rational Proofs of Space Time\"</a><br><br><a href=\"https://eprint.iacr.org/2017/300\" target=\"_blank\">\"Tortoise and Hares Consensus: the Meshcash Framework for Incentive-Compatible, Scalable Cryptocurrencies\"</a><br><br><a href=\"https://arxiv.org/pdf/1406.5694.pdf\" target=\"_blank\">\"Cryptocurrencies without Proof of Work\"</a>",
+          "text": "<br>We are building a new blockchain consensus protocol that replaces energy-wasteful proof of work (pow) mechanisms with proof of space time (post) and the blockchain data structure with a mesh (a layered directed acyclic graph) to provide scalable, secure, theoretically-sound and race-free decentralized computation and transaction processing capabilities. The protocol does not require POW apart from a short initial setup phase.<br><br>Our protocols algorithmic and security work is lead by our chief scientists Prof. Tal Moran and Dr. Iddo Bentov, two of the world's leading consensus and blockchain researches and is based on their cutting-edge research in the field.<br><br>Under optimal conditions, the protocol involves nodes performing a one-time setup phase that involves commitment of hard-disk space after which they don't need to perform POW on an ongoing basis to participate in the network and earn block validation awards.<br><br>Our full technical white paper is in the works and will be published here soon. Some of the core ideas in our protocol include the following related research published by members of our team: <br><br><a href=\"https://eprint.iacr.org/2016/035.pdf\" target=\"_blank\">Rational Proofs of Space Time</a><br><br><a href=\"https://eprint.iacr.org/2017/300\" target=\"_blank\">Tortoise and Hares Consensus: the Meshcash Framework for Incentive-Compatible, Scalable Cryptocurrencies</a><br><br><a href=\"https://arxiv.org/pdf/1406.5694.pdf\" target=\"_blank\">Cryptocurrencies without Proof of Work</a><br><br><a href=\"https://eprint.iacr.org/2011/553.pdf\" target=\"_blank\">Publicly Verifiable Proofs of Sequential Work</a><br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TORTOISE &amp; HARE CONSENSUS</a> ",
           "_tags": [
             "Theme"
@@ -517,7 +518,7 @@
           "subtitle": "We are a group of software developers, entrepreneurs, investors and cryptographers with a shared passion for building a secure and decentralized blockchain platform",
           "title1": "<span style=\"font-weight: normal;\">Tomer Afek</span>",
           "subtitle1": "co-founder",
-          "caption1": "Over 3 decades on both sides of the startup table. Helped founding Showbox.com, prior was the Co-Founder/CEO of ConvertMedia, a big data startup (acquired by Taboola). Prior spent 7 years as Investor at Evergreen VC, among Israel’s oldest and largest VCs, in charge of Internet &amp; New-Media investments. Was also in the founding team of Sanctum Inc. a leader in web application security. Holds  a B.Sc. in Economics and Computer Science (Cum Laude) from Tel-Aviv University. Profile.<br>Holds&nbsp; a B.Sc. in Economics and Computer Science (Cum Laude) from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/tomerafek/\" target=\"_blank\">Profile</a>.",
+          "caption1": "Over 3 decades on both sides of the startup table. Helped founding Showbox.com, prior was the Co-Founder/CEO of ConvertMedia, a big data startup (acquired by Taboola). Prior spent 7 years as Investor at Evergreen VC, among Israel’s oldest and largest VCs, in charge of Internet &amp; New-Media investments. Was also in the founding team of Sanctum Inc. a leader in web application security. Holds  a B.Sc. in Economics and Computer Science (Cum Laude) from Tel-Aviv University. Profile..&nbsp;<a href=\"https://www.linkedin.com/in/tomerafek/\" target=\"_blank\">Profile</a>.",
           "title2": "<span style=\"font-weight: normal;\">Rami Kasterstein</span>",
           "subtitle2": "co-founder",
           "caption2": "&nbsp;Serves as Managing Partner at Scale-Up Venture Capital. He been involved as founder, private investor and executive in several startups. Has over 25 years of global Hi-Tech experience with several successful startup companies both as investor and as an executive. Holds a M.Sc. in Computer Science (Cum Laude) from the Weizmann Institute, and a B.Sc. in Mathematics and Computer Science (Cum Laude) from Tel-Aviv University. <a href=\"https://www.linkedin.com/in/ramikasterstein/\" target=\"_blank\">Profile.</a>",
@@ -862,9 +863,9 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
           "text1": "<strong>Contact<br></strong><br><a href=\"mailto:info@spacemesh.io\">info@spacemesh.io</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://github.com/spacemeshos\" target=\"_blank\">Github</a></li><li><a class=\"text-white\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://github.com/spacemeshos/go-spacemesh\" target=\"_blank\">Github</a></li><li><a class=\"text-white\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li><li><a href=\"https://twitter.com/teamspacemesh\" target=\"_blank\">Twitter</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "info@spacemesh.io",
@@ -901,6 +902,10 @@
           "_styles": {
             "UL": {
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           }
         },
@@ -929,7 +934,7 @@
     "join.html": {
       "settings": {
         "meta_descr": "Join the Spacemesh open source project",
-        "title": "Join Spacenesh",
+        "title": "Join Spacemesh",
         "order": 2
       },
       "components": [
@@ -983,7 +988,9 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -1023,7 +1030,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "1",
             "fontName": {
@@ -1071,9 +1078,9 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
           "text1": "<strong>Contact<br></strong><br><a href=\"mailto:info@spacemesh.io\">info@spacemesh.io</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://github.com/spacemeshos\" target=\"_blank\">Github</a></li><li><a class=\"text-white\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://github.com/spacemeshos/go-spacemesh\" target=\"_blank\">Github</a></li><li><a class=\"text-white\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li><li><a href=\"https://twitter.com/teamspacemesh\" target=\"_blank\">Twitter</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "aviveyal07@gmail.com",
@@ -1109,6 +1116,10 @@
           "_styles": {
             "UL": {
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_anchor": "contacts4-4w"

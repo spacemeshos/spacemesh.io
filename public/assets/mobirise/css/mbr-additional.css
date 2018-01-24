@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -764,13 +765,14 @@ h6,
 }
 #header4-2z .mbr-section-title {
   color: #ffffff;
+  font-size: 8px;
 }
 #header4-2z .mbr-section-lead {
   color: #000000;
 }
 #header4-2z .mbr-section-title SPAN {
   color: #000000;
-  font-size: 60px;
+  font-size: 48px;
 }
 #header3-4n .mbr-section-title,
 #header3-4n .mbr-section-subtitle {
@@ -807,6 +809,11 @@ h6,
 #contacts4-3b UL {
   color: #ffffff;
 }
+#contacts4-3b .btn {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
 #msg-box3-4y .mbr-section-title,
 #msg-box3-4y p {
   color: #000;
@@ -827,6 +834,7 @@ h6,
 #menu-4v .link,
 #menu-4v .dropdown-item {
   color: #000000;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-4v .link {
   font-size: 1rem;
@@ -874,4 +882,7 @@ h6,
 }
 #contacts4-4w UL {
   color: #ffffff;
+}
+#contacts4-4w .btn {
+  font-family: 'Titillium Web', sans-serif;
 }
