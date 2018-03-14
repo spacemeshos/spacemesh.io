@@ -1,6 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700);
+
+
+
+
 
 
 
@@ -10,11 +12,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .btn,
 .alert,
@@ -38,7 +40,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -52,7 +54,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -61,32 +63,32 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .bg-primary {
-  background-color: #ff9500 !important;
+  background-color: #00c28c !important;
 }
 .bg-success {
   background-color: #007aff !important;
 }
 .bg-info {
-  background-color: #4cd964 !important;
+  background-color: #00c48e !important;
 }
 .bg-warning {
   background-color: #f3c649 !important;
@@ -95,8 +97,8 @@ h6,
   background-color: #ffffff !important;
 }
 .btn-primary {
-  background-color: #ff9500;
-  border-color: #ff9500;
+  background-color: #00c28c;
+  border-color: #00c28c;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -105,14 +107,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #b36800;
-  border-color: #b36800;
+  background-color: #007655;
+  border-color: #007655;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #b36800 !important;
-  border-color: #b36800 !important;
+  background-color: #007655 !important;
+  border-color: #007655 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -135,8 +137,8 @@ h6,
   border-color: #94ada8 !important;
 }
 .btn-info {
-  background-color: #4cd964;
-  border-color: #4cd964;
+  background-color: #00c48e;
+  border-color: #00c48e;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -145,14 +147,14 @@ h6,
 .btn-info:active,
 .btn-info.active {
   color: #ffffff;
-  background-color: #26b33e;
-  border-color: #26b33e;
+  background-color: #007857;
+  border-color: #007857;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #26b33e !important;
-  border-color: #26b33e !important;
+  background-color: #007857 !important;
+  border-color: #007857 !important;
 }
 .btn-success {
   background-color: #007aff;
@@ -216,8 +218,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #995900;
-  color: #995900;
+  border-color: #005c42;
+  color: #005c42;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -225,14 +227,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #ff9500;
-  border-color: #ff9500;
+  background-color: #00c28c;
+  border-color: #00c28c;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff9500 !important;
-  border-color: #ff9500 !important;
+  background-color: #00c28c !important;
+  border-color: #00c28c !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -256,8 +258,8 @@ h6,
 }
 .btn-info-outline {
   background: none;
-  border-color: #219e37;
-  color: #219e37;
+  border-color: #005e44;
+  color: #005e44;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
@@ -265,14 +267,14 @@ h6,
 .btn-info-outline:active,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #4cd964;
-  border-color: #4cd964;
+  background-color: #00c48e;
+  border-color: #00c48e;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #4cd964 !important;
-  border-color: #4cd964 !important;
+  background-color: #00c48e !important;
+  border-color: #00c48e !important;
 }
 .btn-success-outline {
   background: none;
@@ -335,13 +337,13 @@ h6,
   border-color: #ffffff !important;
 }
 .text-primary {
-  color: #ff9500 !important;
+  color: #00c28c !important;
 }
 .text-success {
   color: #007aff !important;
 }
 .text-info {
-  color: #4cd964 !important;
+  color: #00c48e !important;
 }
 .text-warning {
   color: #f3c649 !important;
@@ -353,7 +355,7 @@ h6,
   background-color: #007aff;
 }
 .alert-info {
-  background-color: #4cd964;
+  background-color: #00c48e;
 }
 .alert-warning {
   background-color: #f3c649;
@@ -362,36 +364,36 @@ h6,
   background-color: #ffffff;
 }
 .btn-social {
-  border-color: #ff9500;
+  border-color: #00c28c;
 }
 .btn-social:hover {
-  background: #ff9500;
+  background: #00c28c;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #ff9500;
+  color: #00c28c;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #ff9500;
+  color: #00c28c;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #ff9500;
+  background: #00c28c;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #ff9500;
+  color: #00c28c;
 }
 .lead a,
 .lead a:hover {
-  color: #ff9500;
+  color: #00c28c;
 }
 .lead blockquote {
-  border-color: #ff9500;
+  border-color: #00c28c;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffeacc;
+  color: #42ffcb;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -399,7 +401,7 @@ h6,
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #f4fdf6;
+  color: #44ffcc;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -411,44 +413,44 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #ff9500;
+  color: #00c28c;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
 .extCountdown1 .number,
 .extCountdown2 .number {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extCountdown1 .period,
 .extCountdown2 .period {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extCountdown1 .dot,
 .extCountdown2 .dot {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .features6 .feature-subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .features6 .feature-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .features6 .description {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .count,
 .counter-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .counter-subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .mbr-iconfont-counters1 {
-  color: #ff9500;
+  color: #00c28c;
 }
 .extHeader1 .container h3,
 .extHeader2 .container h3,
@@ -462,7 +464,7 @@ h6,
 .extHeader12 .container h3,
 .extHeader13 .container h3,
 .extFeatures10 .container h3 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extHeader1 .container p,
 .extHeader2 .container p,
@@ -476,153 +478,153 @@ h6,
 .extHeader12 .container p,
 .extHeader13 .container p,
 .extFeatures10 .container p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extHeader5 .container label {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extHeader9 form p.form-subtitle {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extHeader11 .container span {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extHeader11 .container p.element {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extHeader11 .container p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extHeader12 h4,
 .extFeatures10 h4 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extHeader12 .subtitle,
 .extFeatures10 .subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extHeader13 h4 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extHeader13 .number {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extHeader13 .period {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extHeader13 .dot {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extFeatures .feature-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extFeatures .feature-subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extFeatures .feature-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extFeatures2 h4 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extFeatures3 .border-wrap {
-  border-color: #ff9500;
+  border-color: #00c28c;
 }
 .extFeatures4 h4,
 .extFeatures6 h4,
 .extFeatures5 .card-title h4 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extFeatures4 h5,
 .extFeatures6 h5,
 .extFeatures5 .card-title h5 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extForm1 h4,
 .extForm2 h4,
 .extForm3 h4,
 .extForm4 h4 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extForm1 .subtitle,
 .extForm2 .subtitle,
 .extForm3 .subtitle,
 .extForm4 .subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extForm2 .container h3 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extForm2 .container p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extPricingTable1 .bottom_line {
-  border-bottom-color: #ff9500;
+  border-bottom-color: #00c28c;
 }
 .extPricingTable1 .mbr-price small {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extPricingTable1 .mbr-plan-label {
-  background: #ff9500;
+  background: #00c28c;
 }
 .extCounters2 h4 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extCounters2 h5 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extCounters3 .count {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extCounters3 .counter-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extCounters3 .counter-subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extProgressBar .progress-primary[value]::-webkit-progress-value {
-  background-color: #ff9500;
+  background-color: #00c28c;
 }
 .extProgressBar .progress-primary[value]::-moz-progress-bar {
-  background-color: #ff9500;
+  background-color: #00c28c;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar .progress-primary .progress-bar {
-    background-color: #ff9500;
+    background-color: #00c28c;
   }
 }
 .extProgressBar .title-wrap {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extProgressBarRound .progress-radial .overlay {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extProgressBar4 .feature-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extProgressBar4 .feature-subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extTabs1 ul.nav-tabs li a:hover,
 .extTabs2 ul.nav-tabs li a:hover {
-  color: #ff9500;
+  color: #00c28c;
 }
 .extAccordion1 .panel-heading a {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extAccordion1 .pseudoPlus,
 .extAccordion2 .pseudoPlus,
@@ -633,73 +635,75 @@ h6,
 .extAccordion1 .pseudoMinus,
 .extAccordion2 .pseudoMinus,
 .extToggle1 .pseudoMinus {
-  background-color: #ff9500;
+  background-color: #00c28c;
 }
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
 .extToggle1 .panel-heading a {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
-  background-color: #ff9500;
+  background-color: #00c28c;
 }
 .extProgressBar5 .progress-primary[value]::-moz-progress-bar {
-  background-color: #ff9500;
+  background-color: #00c28c;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar5 .progress-primary .progress-bar {
-    background-color: #ff9500;
+    background-color: #00c28c;
   }
 }
 .extProgressBar5 .title-wrap {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extMsg-box1 .container h3 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extMsg-box1 .container p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extMsg-box1 h4 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extMsg-box1 .subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extMsg-box2 .container span,
 .extMsg-box3 .container span,
 .extMsg-box4 .container span {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extMsg-box2 .container p,
 .extMsg-box3 .container p,
 .extMsg-box4 .container p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-style: normal;
 }
 .extProgressBarRound .pie_progress__number {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .extMenu1 span.icon a:hover {
-  color: #ff9500 !important;
+  color: #00c28c !important;
 }
 .extProgressBar .progress-primary[value]::-ms-fill {
-  color: #ff9500;
+  color: #00c28c;
 }
 .extProgressBar5 .progress-primary[value]::-ms-fill {
-  color: #ff9500;
+  color: #00c28c;
 }
 .theme-border {
-  border: 1px solid #ff9500;
+  border: 1px solid #00c28c;
 }
 #menu-4r .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-4r .navbar-caption {
   color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
 }
 #menu-4r .navbar-toggler {
   color: #000000;
@@ -711,7 +715,7 @@ h6,
 #menu-4r .link,
 #menu-4r .dropdown-item {
   color: #000000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 #menu-4r .link {
   font-size: 1rem;
@@ -724,7 +728,7 @@ h6,
 #menu-4r .dropdown-item:hover,
 #menu-4r .link:focus,
 #menu-4r .dropdown-item:focus {
-  color: #ff9500;
+  color: #00c28c;
 }
 #menu-4r .link[aria-expanded="true"],
 #menu-4r .dropdown-menu {
@@ -751,11 +755,11 @@ h6,
 }
 #menu-4r .bg-color.transparent.opened .link:hover,
 #menu-4r .bg-color.transparent.opened .link:focus {
-  color: #ff9500;
+  color: #00c28c;
 }
 #menu-4r .link[aria-expanded="true"],
 #menu-4r .dropdown-item[aria-expanded="true"] {
-  color: #ff9500!important;
+  color: #00c28c!important;
 }
 #menu-4r.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -763,12 +767,20 @@ h6,
 #menu-4r .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#menu-4r .btn-info {
+  background: #00c48e;
+  color: white;
+}
+#menu-4r .btn-info-outline {
+  border: white;
+}
 #header4-2z .mbr-section-title {
   color: #ffffff;
   font-size: 8px;
 }
 #header4-2z .mbr-section-lead {
   color: #000000;
+  font-family: 'Quicksand', sans-serif;
 }
 #header4-2z .mbr-section-title SPAN {
   color: #000000;
@@ -778,9 +790,12 @@ h6,
 #header3-4n .mbr-section-subtitle {
   text-align: center;
 }
+#header3-4n .mbr-section-title {
+  text-align: center;
+}
 #header1-4q .mbr-section-title SPAN {
   color: #2e2e2e;
-  font-size: 60px;
+  font-size: 48px;
 }
 #header1-4q .mbr-section-lead {
   color: #000000;
@@ -790,10 +805,24 @@ h6,
 }
 #header6-4p .mbr-section-text {
   color: #000000;
+  text-align: left;
+  font-size: 24px;
 }
 #header6-4p .mbr-section-title SPAN {
   color: #000000;
-  font-size: 46px;
+  font-size: 48px;
+}
+#extFeatures9-51 P {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+}
+#extFeatures9-51 .mbr-section-subtitle {
+  color: #2e2e2e;
+  font-size: 20px;
+}
+#extFeatures9-51 H5 {
+  color: #00c28c;
 }
 #extFeatures9-51 .card-img-top {
   height: 150px;
@@ -804,14 +833,24 @@ h6,
   color: #ffffff;
 }
 #form2-1m .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #ffffff;
+  font-size: 24px;
+}
+#form2-1m .btn {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
 }
 #contacts4-3b UL {
   color: #ffffff;
 }
 #contacts4-3b .btn {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
 }
+#footer1-3d P {
+  color: #ffffff;
+}
+
 
 
 #msg-box3-4y .mbr-section-title,
@@ -823,6 +862,8 @@ h6,
 }
 #menu-4v .navbar-caption {
   color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
 }
 #menu-4v .navbar-toggler {
   color: #000000;
@@ -834,7 +875,7 @@ h6,
 #menu-4v .link,
 #menu-4v .dropdown-item {
   color: #000000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 #menu-4v .link {
   font-size: 1rem;
@@ -847,7 +888,7 @@ h6,
 #menu-4v .dropdown-item:hover,
 #menu-4v .link:focus,
 #menu-4v .dropdown-item:focus {
-  color: #ff9500;
+  color: #00c28c;
 }
 #menu-4v .link[aria-expanded="true"],
 #menu-4v .dropdown-menu {
@@ -874,15 +915,32 @@ h6,
 }
 #menu-4v .bg-color.transparent.opened .link:hover,
 #menu-4v .bg-color.transparent.opened .link:focus {
-  color: #ff9500;
+  color: #00c28c;
 }
 #menu-4v .link[aria-expanded="true"],
 #menu-4v .dropdown-item[aria-expanded="true"] {
-  color: #ff9500!important;
+  color: #00c28c!important;
+}
+#menu-4v.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4v .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-4v .btn-info {
+  background: #00c28c;
+  color: white;
+}
+#menu-4v .btn-info-outline {
+  border: white;
 }
 #contacts4-4w UL {
   color: #ffffff;
 }
 #contacts4-4w .btn {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+}
+#footer1-4x P {
+  color: #ffffff;
 }
