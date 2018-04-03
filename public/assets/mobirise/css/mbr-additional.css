@@ -944,3 +944,191 @@ h6,
 #footer1-4x P {
   color: #ffffff;
 }
+
+
+
+#header3-5w .mbr-section-title,
+#header3-5w .mbr-section-subtitle {
+  text-align: center;
+}
+#menu-5t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5t .navbar-caption {
+  color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+}
+#menu-5t .navbar-toggler {
+  color: #000000;
+}
+#menu-5t .close-icon::before,
+#menu-5t .close-icon::after {
+  background-color: #000000;
+}
+#menu-5t .link,
+#menu-5t .dropdown-item {
+  color: #000000;
+  font-family: 'Quicksand', sans-serif;
+}
+#menu-5t .link {
+  font-size: 1rem;
+}
+#menu-5t .dropdown-item,
+#menu-5t .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-5t .link:hover,
+#menu-5t .dropdown-item:hover,
+#menu-5t .link:focus,
+#menu-5t .dropdown-item:focus {
+  color: #00c28c;
+}
+#menu-5t .link[aria-expanded="true"],
+#menu-5t .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-5t .nav-dropdown-sm .link:focus,
+#menu-5t .nav-dropdown-sm .link:hover,
+#menu-5t .nav-dropdown-sm .dropdown-item:focus,
+#menu-5t .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-5t .navbar,
+#menu-5t .nav-dropdown-sm,
+#menu-5t .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5t .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-5t .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-5t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5t .bg-color.transparent.opened .link:hover,
+#menu-5t .bg-color.transparent.opened .link:focus {
+  color: #00c28c;
+}
+#menu-5t .link[aria-expanded="true"],
+#menu-5t .dropdown-item[aria-expanded="true"] {
+  color: #00c28c!important;
+}
+#menu-5t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-5t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-5t .btn-info {
+  background: #00c28c;
+  color: white;
+}
+#menu-5t .btn-info-outline {
+  border: white;
+}
+#contacts4-5u UL {
+  color: #ffffff;
+}
+#contacts4-5u .btn {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+}
+#footer1-5v P {
+  color: #ffffff;
+}
+
+
+
+#header3-5z .mbr-section-title,
+#header3-5z .mbr-section-subtitle {
+  text-align: center;
+}
+#menu-61 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-61 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+}
+#menu-61 .navbar-toggler {
+  color: #000000;
+}
+#menu-61 .close-icon::before,
+#menu-61 .close-icon::after {
+  background-color: #000000;
+}
+#menu-61 .link,
+#menu-61 .dropdown-item {
+  color: #000000;
+  font-family: 'Quicksand', sans-serif;
+}
+#menu-61 .link {
+  font-size: 1rem;
+}
+#menu-61 .dropdown-item,
+#menu-61 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-61 .link:hover,
+#menu-61 .dropdown-item:hover,
+#menu-61 .link:focus,
+#menu-61 .dropdown-item:focus {
+  color: #00c28c;
+}
+#menu-61 .link[aria-expanded="true"],
+#menu-61 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-61 .nav-dropdown-sm .link:focus,
+#menu-61 .nav-dropdown-sm .link:hover,
+#menu-61 .nav-dropdown-sm .dropdown-item:focus,
+#menu-61 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-61 .navbar,
+#menu-61 .nav-dropdown-sm,
+#menu-61 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-61 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-61 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-61 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-61 .bg-color.transparent.opened .link:hover,
+#menu-61 .bg-color.transparent.opened .link:focus {
+  color: #00c28c;
+}
+#menu-61 .link[aria-expanded="true"],
+#menu-61 .dropdown-item[aria-expanded="true"] {
+  color: #00c28c!important;
+}
+#menu-61.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-61 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-61 .btn-info {
+  background: #00c28c;
+  color: white;
+}
+#menu-61 .btn-info-outline {
+  border: white;
+}
+#contacts4-62 UL {
+  color: #ffffff;
+}
+#contacts4-62 .btn {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+}
+#footer1-63 P {
+  color: #ffffff;
+}

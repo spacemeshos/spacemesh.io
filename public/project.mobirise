@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Spacemesh",
-    "currentPage": "join.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 204,
+    "uniqCompNum": 220,
     "versionPublish": "4.5.3",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111612428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111612428-1');\r\n</script>\r\n",
     "path": "@PROJECT_PATH@",
@@ -1022,6 +1022,19 @@
           "_anchor": "msg-box3-4y"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5p"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1208,6 +1221,504 @@
               "color": "#ffffff"
             }
           }
+        }
+      ]
+    },
+    "tlvdevelopers.html": {
+      "settings": {
+        "meta_descr": "Join the Spacemesh TLV team\n",
+        "title": "Blockchain Software Developer - Tel Aviv, Israel",
+        "order": 2,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Blockchain Software Developer, Tel Aviv, Israel</span>",
+          "meta": "By team spacemesh, posted March 14, 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Spacemesh is a well funded early-stage startup started by three experienced and successful entrepreneurs. We are building an open source blockchain operating system that powers a smart contracts global computer. Our founding tech team includes world-leading cryptographers as well as p2p and blockchain technology experts. </p><p><br></p><p>We are looking for talented and passionate software developers to join our Tel Aviv r&amp;d center. We offer a competitive compensation package based on your work experience and skills and a developer-first work environment.<br>To learn more about the company please visit <a href=\"index.html\">https://spacemesh.io</a> .</p><p><br></p><p>Requirements</p><p><br></p><p>- You are passionate about working on blockchain core technology</p><p>- You live to code hands-on and you are excited about delivering features to end users</p><p>- You are interested in building cross-platform desktop software apps in the GO programming language&nbsp;</p><p>- You are excited about becoming a core contributor to a high-profile global open source project</p><p>- You are willing to work hard to build innovative software that betters humanity</p><p>- You are a fast self learner with a passion for learning new technologies and you are interested in working in a small flat team</p><p>- You have a computer science degree or equivalent</p><p>- You are able to design, code test and maintain software components that implement advanced algorithms and communications protocols.</p><p>- You have some code on your laptop that you are proud of and can reason about it with our cto in your interview</p><p>- Familiarity with blockchain tech is a nice to have but not a must</p><p>- Contributions to open source projects is a nice to have but not a must</p><p>- Prior work experience is not a must - we welcome recent college graduates</p><p><br></p><p>Curious to hear more? We'd love to hear from you! contact us at <a href=\"mailto:jobs@spacemesh.io\">jobs@spacemesh.io</a></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5x",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" data-rv-view=\"78\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"20\"><p>Spacemesh is a well funded early-stage startup started by three experienced and successful entrepreneurs. We are building an open source blockchain operating system that powers a smart contracts global computer. Our founding tech team includes world-leading cryptographers as well as p2p and blockchain technology experts. </p><p><br></p><p>We are looking for talented and passionate software developers to join our Tel Aviv r&amp;d center. We offer a competitive compensation package based on your work experience and skills and a developer-first work environment.<br>To learn more about the company please visit <a href=\"index.html\">https://spacemesh.io</a> .</p><p><br></p><p>Requirements</p><p><br>\n                </p>\n                <ul>\n                    <li>You are passionate about working on blockchain core technology</li>\n                    <li>You live to code hands-on and you are excited about delivering features to end users</li>\n                    <li>You are interested in building cross-platform desktop software apps in the GO programming language&nbsp;</li>\n                    <li>You are excited about becoming a core contributor to a high-profile global open source project</li>\n                    <li>You are willing to work hard to build innovative software that betters humanity</li><li>You are a fast self learner with a passion for learning new technologies and you are interested in working in a small flat team</li><li>You have a computer science degree or equivalent</li><li>You are able to design, code test and maintain software components that implement advanced algorithms and communications protocols</li><li> You have some code on your laptop that you are proud of and can reason about it with our cto in your interview</li><li>Familiarity with blockchain tech is a nice to have but not a must</li><li>Contributions to open source projects is a nice to have but not a must</li><li>Prior work experience is not a must - we welcome recent college graduates</li>\n                \n                </ul>\n                <p>&nbsp;</p>\n                <p>Curious to hear more? We'd love to hear back from you! contact us at <a href=\"mailto:jobs@spacemesh.io\">jobs@spacemesh.io</a></p><p><br></p></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Quicksand', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "font-family": "'Quicksand', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c28c!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Quicksand",
+              "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "css": "'Quicksand', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Browse</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header4-2z\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-4q\">Consensus Protocol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures9-51\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-3b\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"join.html\">JOIN US</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/spacemesh-logo-clean-576x128.png",
+              "height": 128,
+              "alt": "Spacemesh",
+              "link": "index.html",
+              "title": "SpaceMesh",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": ".btn-info {\n    background: #00c28c;\n    color: white;\n}\n\n.btn-info-outline {\n    border: white;\n}",
+          "_anchor": "menu-5t"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#686868",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<strong>Contact<br></strong><br><a href=\"mailto:info@spacemesh.io\" class=\"text-danger\">info@spacemesh.io</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-danger\" href=\"https://github.com/spacemeshos/go-spacemesh\" target=\"_blank\">Github</a></li><li><a class=\"text-danger\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li><li><a href=\"https://twitter.com/teamspacemesh\" target=\"_blank\" class=\"text-danger\">Twitter</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aviveyal07@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Quicksand', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts4-5u"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#686868",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017-2018 spacemesh.io<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-5v"
+        }
+      ]
+    },
+    "tlvvpsoftware.html": {
+      "settings": {
+        "meta_descr": "Join the Spacemesh TLV team",
+        "title": "vp software development",
+        "order": 3,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">VP, Software Development, Tel Aviv, Israel</span>",
+          "meta": "By team Spacemesh, posted March 14, 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Spacemesh is a well funded early-stage startup started by three experienced and successful entrepreneurs. We are building an open source blockchain operating system that powers a smart contracts global computer. Our founding tech team includes world-leading cryptographers as well as p2p and blockchain technology experts. </p><p><br></p><p>We are looking for talented and passionate software developers to join our Tel Aviv r&amp;d center. We offer a competitive compensation package based on your work experience and skills and a developer-first work environment.<br>To learn more about the company please visit <a href=\"index.html\">https://spacemesh.io</a> .</p><p><br></p><p>Requirements</p><p><br></p><p>- You are passionate about working on blockchain core technology</p><p>- You live to code hands-on and you are excited about delivering features to end users</p><p>- You are interested in building cross-platform desktop software apps in the GO programming language&nbsp;</p><p>- You are excited about becoming a core contributor to a high-profile global open source project</p><p>- You are willing to work hard to build innovative software that betters humanity</p><p>- You are a fast self learner with a passion for learning new technologies and you are interested in working in a small flat team</p><p>- You have a computer science degree or equivalent</p><p>- You are able to design, code test and maintain software components that implement advanced algorithms and communications protocols.</p><p>- You have some code on your laptop that you are proud of and can reason about it with our cto in your interview</p><p>- Familiarity with blockchain tech is a nice to have but not a must</p><p>- Contributions to open source projects is a nice to have but not a must</p><p>- Prior work experience is not a must - we welcome recent college graduates</p><p><br></p><p>Curious to hear more? We'd love to hear from you! contact us at <a href=\"mailto:jobs@spacemesh.io\">jobs@spacemesh.io</a></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" data-rv-view=\"78\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"28\"><p>Spacemesh is a well funded early-stage startup started by three experienced and successful entrepreneurs. We are building an open source blockchain operating system that powers a smart contracts global computer. Our founding tech team includes world-leading cryptographers as well as p2p and blockchain technology experts. </p><p><br></p><p>We are looking for talented and passionate software developers to join our Tel Aviv r&amp;d center. We offer a competitive compensation package based on your work experience and skills and a developer-first work environment.<br>To learn more about the company please visit <a href=\"index.html\">https://spacemesh.io</a> .</p><p><br></p><p>Requirements</p><p><br>\n                </p>\n                      <ul>\n                    <li>You are s software ninja who thrives on leading talented software development teams</li>\n                    <li>You are passionate about working on blockchain core technology</li>\n                    <li>You live to code hands-on and you are excited about delivering features to end users</li>\n                    <li>You are interested in building cross-platform desktop software apps in the GO programming language&nbsp;</li>\n                    <li>You are excited about becoming a core contributor to a high-profile global open source project</li>\n                    <li>You are willing to work hard to build innovative software that betters humanity</li><li>You are a fast self learner with a passion for learning new technologies and you are interested in working in a small flat team</li><li>You have a computer science degree or equivalent</li>\n                    \n                    <li>You are able to design, code test and maintain software components that implement advanced algorithms and communications protocols</li><li> You have some code on your laptop that you are proud of and can reason about it with our cto in your interview</li>\n                    \n                    <li>Familiarity with blockchain tech is a nice to have but not a must</li><li>Contributions to open source projects is a nice to have but not a must</li>\n                    \n                    <li>Prior work experience is not a must - we welcome recent college graduates</li>\n                \n                    \n                    <li>Proven track record of both hands-on coding and software team leadership delivering a complex software product - a desktop app, embedded system, or a backend service.</li>                 \n                    <li>Strong software design skills - algorithms, api design, components, etc…</li>\n                </ul>\n                <p>&nbsp;</p>\n                <p>Responsibilities</p>\n                \n                <ul>\n                    <li>25% coding and testing, 25% -  software design and architecture, 50% - code review of other core devs and external contributors code and other open source project lead maintainer tasks.</li>\n<li>Responsible for the overall OS software architecture - components, APIs and core algorithms.</li>\n<li>Daily hands-on technical management and leadership by example of Israeli core dev team (5-10 developers)</li>\n<li>Work closely with chief scientists and CTO to convert high-level networking protocol specs into practical algorithms, data structures and actionable specs.</li>\n<li>Become an expert in GO lang concurrent programming</li>                \n                </ul>\n                <p>&nbsp;</p>\n                <p>Curious to hear more? We'd love to hear back from you! contact us at <a href=\"mailto:jobs@spacemesh.io\">jobs@spacemesh.io</a></p><p><br></p></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "content1-60"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Quicksand', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "font-family": "'Quicksand', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c28c!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Quicksand",
+              "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "css": "'Quicksand', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Browse</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header4-2z\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-4q\">Consensus Protocol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extFeatures9-51\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-3b\">Contact Us<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"join.html\">JOIN US</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/spacemesh-logo-clean-576x128.png",
+              "height": 128,
+              "alt": "Spacemesh",
+              "link": "index.html",
+              "title": "SpaceMesh",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": ".btn-info {\n    background: #00c28c;\n    color: white;\n}\n\n.btn-info-outline {\n    border: white;\n}",
+          "_anchor": "menu-61"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#686868",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<strong>Contact<br></strong><br><a href=\"mailto:info@spacemesh.io\" class=\"text-danger\">info@spacemesh.io</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-danger\" href=\"https://github.com/spacemeshos/go-spacemesh\" target=\"_blank\">Github</a></li><li><a class=\"text-danger\" href=\"https://gitter.im/spacemesh-os\" target=\"_blank\">Gitter</a></li><li><a href=\"https://twitter.com/teamspacemesh\" target=\"_blank\" class=\"text-danger\">Twitter</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aviveyal07@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Quicksand', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts4-62"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#686868",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017-2018 spacemesh.io<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-63"
         }
       ]
     }
